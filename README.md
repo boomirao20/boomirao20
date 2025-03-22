@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **learning and improving my skills**
 - 🤝 I’m looking for help with ** **
 - 🌱 I’m currently learning **Python, Power BI**
-- 💬 Ask me about ** html, CSS, Bootstrap, wordpress, Excel, python, Power BI**
+- 💬 Ask me about ** html, CSS, Bootstrap, wordpress, Excel, python, Power BI, JavaScript, R programming**
 - 📫 How to reach me **boomirao2005@gmail.com**
 - ⚡ Fun fact **I blend my passion for art, **dancing, and **movies to create unique and inspiring projects! Whether it's painting a masterpiece, choreographing a dance routine, or analyzing cinematic techniques, I love exploring the creative intersections of these hobbies.**
 
