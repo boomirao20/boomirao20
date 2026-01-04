@@ -57,16 +57,22 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">⭐ Stats</h3>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=boomirao20&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=radical" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=boomirao20&show_icons=true&theme=radical&count_private=true" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=radical" 
+    height="180em"
+  />
 </p>
 
 ---
 
-### 🔥 GitHub Activity Graph
+### 🔥 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=boomirao20&theme=react-dark&hide_border=true" />
@@ -74,7 +80,7 @@
 
 ---
 
-### 📈 GitHub Summary
+### 📈 Summary
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=2077" />
