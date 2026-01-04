@@ -60,17 +60,8 @@
 <h3 align="center">⭐ Stats</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <img src="https://img.shields.io/github/stars/boomirao20?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/boomirao20?style=for-the-badge" />
 </p>
 
 ---
