@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Boomi Rao</h1>
 <h3 align="center">A passionate Full-Stack Python Developer & Data Science student from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-Tracking-blue)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
