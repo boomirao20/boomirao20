@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack Python Developer & Data Science student from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="[https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=blue&style=for-the-badge](https://github-profile-trophy.vercel.app/?username=boomirao20)" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=boomirao20&theme=flat&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
