@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Boomi Rao</h1>
 <h3 align="center">A passionate Full-Stack Python Developer & Data Science student from India 🇮🇳</h3>
 
-![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-Tracking-blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=boomirao20&theme=gruvbox&row=1&column=6" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=boomirao20&theme=gruvbox&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
