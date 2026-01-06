@@ -9,17 +9,17 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-- 🔭 Improving my **development & analytics skills**
-- 🌱 Learning **Python, Power BI & Data Analytics**
+- 🔭 Currently working on **improving my development & analytics skills**
+- 🌱 Learning **Python, Power BI, Data Analytics**
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Python, Power BI, Excel, R**
 - 📫 Reach me at **boomirao2005@gmail.com**
-- ⚡ Fun fact: I mix **art 🎨, dancing 💃 & movies 🎬** with technology
+- ⚡ Fun fact: I combine **art 🎨, dancing 💃, and movies 🎬** with technology to build creative projects
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/boomi-rao-3634042a1/" target="_blank">
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -51,43 +51,30 @@
 
 ---
 
-## ⭐ GitHub Overview
+<h3 align="center">⭐ Stats</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/boomirao20?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/boomirao20?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/boomirao20?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔥 Activity Graph
+### 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=boomirao20&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boomirao20&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Summary
+### 📈 Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=github" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomirao20&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boomirao20&theme=2077" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boomirao20&theme=2077" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomirao20&theme=github" />
-</p>
-
----
-
-## 📌 What I Focus On
-
-- 📦 Building real-world projects  
-- 📚 Writing clean, readable code  
-- 🔄 Consistent learning & improvement  
-- 🧠 Strong fundamentals over flashy stats  
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
