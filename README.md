@@ -7,9 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boomirao20&theme=gruvbox&row=1&column=6" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=boomirao20&theme=flat&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
