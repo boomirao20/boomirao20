@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack Python Developer & Data Science student from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20views&color=0e75b6&style=flat" alt="boomirao20" />
+  <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 <p align="center">
