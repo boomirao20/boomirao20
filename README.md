@@ -1,81 +1,165 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Boomi Rao</h1>
-<h3 align="center">A passionate Full-Stack Python Developer & Data Science student from India 🇮🇳</h3>
+<h3 align="center">
+AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast 🇮🇳
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## ✨ About Me
 
-- 🔭 Currently working on **improving my development & analytics skills**
-- 🌱 Learning **Python, Power BI, Data Analytics**
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Python, Power BI, Excel, R**
-- 📫 Reach me at **boomirao2005@gmail.com**
-- ⚡ Fun fact: I combine **art 🎨, dancing 💃, and movies 🎬** with technology to build creative projects
+🎓 Artificial Intelligence & Data Science student with hands-on experience in  
+**Web Development, Data Analytics, and Visualization**
+
+💡 I enjoy building **real-world projects** using Django, JavaScript, Power BI, Tableau, and Python.
+
+🎯 Organized, quick learner, and consistent — with **internship + project experience**
+
+📍 Mumbai, India
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Languages, Tools & Technologies
+
+<p align="center">
+
+<!-- Programming Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+
+<br/><br/>
+
+<!-- Web -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+
+<br/><br/>
+
+<!-- Frameworks & Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+
+<br/><br/>
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+
+<br/><br/>
+
+<!-- Data & Analytics -->
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+
+<br/><br/>
+
+<!-- AI / ML -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="45"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌸 Flower E-commerce Platform
+**Django | Python | PostgreSQL | OpenAI**
+- Full-stack e-commerce platform with role-based access
+- AI chatbot for customer support & recommendations
+- Managed 26+ database tables for inventory & logistics
+
+---
+
+### 🌦️ Weather Checker Web App
+**JavaScript | HTML | CSS**
+- Real-time weather using Weather API
+- Clean, responsive UI with async handling
+
+---
+
+### 📊 Cricket Performance Dashboard
+**Power BI | DAX | Data Modeling**
+- Interactive ODI analytics dashboard
+- KPIs, slicers, and performance insights
+
+---
+
+### 📱 Mobile OS Usage Analytics
+**Tableau | Data Visualization**
+- Multi-chart dashboard with dynamic filters
+- Clean, structured analytical storytelling
+
+---
+
+### 🥬 Delicacy – Fresh Produce Website
+**HTML | CSS | JavaScript**
+- Responsive UI with Swiper.js sliders
+- Smooth animations & modern layout
+
+---
+
+## 💼 Internship
+
+**Intern – Virtual Conferencing (Client Servicing)**  
+📍 Collective Heads, Mumbai | *May 2025 – Sep 2025*
+
+- Managed Zoom sessions for HCP presentations
+- Organized recordings & maintained repositories
+- Tracked progress using Google Sheets
+- Ensured privacy & compliance
+
+---
+
+## 🏅 Certifications
+
+- 🧠 AI – Business Intelligence Analyst (NASSCOM / NCVET) – **93.67%**
+- 💻 Web Developer (NASSCOM / NCVET)
+- 🤖 NVIDIA – Deep Learning, NLP, LLMs
+- 📊 Microsoft Excel 2019 Associate (MOS)
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/boomi-rao-3634042a1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/boomirao20/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://github.com/boomirao20" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.instagram.com/boomirao_20/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:boomirao2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:boomirao0720@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 📈 GitHub Activity
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boomirao20&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">⭐ Stats</h3>
+## 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/boomirao20?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/boomirao20?style=for-the-badge" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=2077"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomirao20&theme=2077"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boomirao20&theme=2077"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boomirao20&theme=2077"/>
 </p>
-
----
-
-### 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boomirao20&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 📈 Summary
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=2077" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomirao20&theme=2077" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boomirao20&theme=2077" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boomirao20&theme=2077" />
-</p>
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
