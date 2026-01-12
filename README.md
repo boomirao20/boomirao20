@@ -34,7 +34,6 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" title="C Programming"/>
 </p>
 
----
 
 ### 🌐 Web Technologies
 <p align="left">
@@ -43,7 +42,6 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
 </p>
 
----
 
 ### ⚙️ Frameworks & Backend
 <p align="left">
@@ -51,7 +49,6 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 </p>
 
----
 
 ### 🗄️ Databases
 <p align="left">
@@ -59,21 +56,27 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 </p>
 
----
 
 ### 📊 Data Analytics & Visualization
 <p align="left">
+  <!-- Power BI -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="45" title="Tableau"/>
+
+  <!-- Tableau (FIXED) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45" title="Tableau"/>
+
+  <!-- Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
 </p>
 
----
 
 ### 🤖 AI / Machine Learning
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" width="45" title="NVIDIA"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="45" title="OpenAI"/>
+  <!-- NVIDIA -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="45" title="NVIDIA"/>
+
+  <!-- OpenAI (FIXED) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="45" title="OpenAI"/>
 </p>
 
 ---
@@ -86,46 +89,30 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 - AI chatbot for customer support & recommendations
 - Managed 26+ database tables for inventory & logistics
 
----
 
 ### 🌦️ Weather Checker Web App
 **JavaScript | HTML | CSS**
 - Real-time weather using Weather API
 - Clean, responsive UI with async handling
 
----
 
 ### 📊 Cricket Performance Dashboard
 **Power BI | DAX | Data Modeling**
 - Interactive ODI analytics dashboard
 - KPIs, slicers, and performance insights
 
----
 
 ### 📱 Mobile OS Usage Analytics
 **Tableau | Data Visualization**
 - Multi-chart dashboard with dynamic filters
 - Clean, structured analytical storytelling
 
----
 
 ### 🥬 Delicacy – Fresh Produce Website
 **HTML | CSS | JavaScript**
 - Responsive UI with Swiper.js sliders
 - Smooth animations & modern layout
-
----
-
-## 💼 Internship
-
-**Intern – Virtual Conferencing (Client Servicing)**  
-📍 Collective Heads, Mumbai | *May 2025 – Sep 2025*
-
-- Managed Zoom sessions for HCP presentations
-- Organized recordings & maintained repositories
-- Tracked progress using Google Sheets
-- Ensured privacy & compliance
-
+  
 ---
 
 ## 🏅 Certifications
