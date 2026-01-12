@@ -34,8 +34,6 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" title="C Programming"/>
 </p>
 
----
-
 ### 🌐 Web Technologies
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
@@ -43,15 +41,11 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
 </p>
 
----
-
 ### ⚙️ Frameworks & Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" title="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 </p>
-
----
 
 ### 🗄️ Databases
 <p align="left">
@@ -59,16 +53,12 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 </p>
 
----
-
 ### 📊 Data Analytics & Visualization
 <p align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
-
----
 
 ### 🤖 AI / Machine Learning
 <p align="left">
