@@ -147,10 +147,13 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast ðŸ‡
 ---
 
 ## ðŸ“Š GitHub Stats
+
 <p align="center">
-![Boomi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=boomirao20&theme=tokyonight)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=boomirao20&theme=tokyonight" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
