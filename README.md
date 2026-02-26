@@ -146,13 +146,10 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 
 ---
 
-## 📊 GitHub Summary
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=2077"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomirao20&theme=2077"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boomirao20&theme=2077"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boomirao20&theme=2077"/>
-</p>
+![Boomi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=boomirao20&theme=tokyonight)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
