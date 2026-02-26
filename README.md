@@ -149,10 +149,10 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast ğŸ‡
 ## ğŸ“Š GitHub Summary
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=2077"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomirao20&theme=2077"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boomirao20&theme=2077"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boomirao20&theme=2077"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boomirao20&theme=2077"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boomirao20&theme=2077"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boomirao20&theme=2077"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boomirao20&theme=2077"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
