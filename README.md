@@ -14,7 +14,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 ## ✨ About Me
 
 🎓 Artificial Intelligence & Data Science student with hands-on experience in  
-**Web Development, Data Analytics, and Visualization**
+**Web Development, Data Analytics, and Data Science**
 
 💡 I enjoy building **real-world projects** using Django, JavaScript, Power BI, Tableau, and Python.
 
