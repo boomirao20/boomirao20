@@ -16,7 +16,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 🎓 Artificial Intelligence & Data Science student with hands-on experience in  
 **Web Development, Data Analytics, and Data Science**
 
-💡 I enjoy building **real-world projects** using Django, JavaScript, Power BI, Tableau, and Python.
+💡 I enjoy building **real-world projects** using Django, JavaScript, React, Power BI, Tableau, and Python.
 
 🎯 Organized, quick learner, and consistent — with **internship + project experience**
 
@@ -39,6 +39,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" title="React.js"/>
 </p>
 
 ### ⚙️ Frameworks & Backend
@@ -65,6 +66,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -75,24 +77,20 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 - AI chatbot for customer support & recommendations
 - Managed 26+ database tables for inventory & logistics
 
-
 ### 🌦️ Weather Checker Web App
 **JavaScript | HTML | CSS**
 - Real-time weather using Weather API
 - Clean, responsive UI with async handling
-
 
 ### 📊 Cricket Performance Dashboard
 **Power BI | DAX | Data Modeling**
 - Interactive ODI analytics dashboard
 - KPIs, slicers, and performance insights
 
-
 ### 📱 Mobile OS Usage Analytics
 **Tableau | Data Visualization**
 - Multi-chart dashboard with dynamic filters
 - Clean, structured analytical storytelling
-
 
 ### 🥬 Delicacy – Fresh Produce Website
 **HTML | CSS | JavaScript**
@@ -113,28 +111,22 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 ## 🌐 Connect With Me
 
 <p align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/boomirao20/" target="_blank">
     <img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn"/>
   </a>
 
-  <!-- GitHub -->
- <a href="https://github.com/boomirao20" target="_blank">
+  <a href="https://github.com/boomirao20" target="_blank">
     <img src="https://img.icons8.com/material-rounded/64/github.png" alt="GitHub"/>
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/boomirao_20/" target="_blank">
     <img src="https://img.icons8.com/color/64/instagram-new.png" alt="Instagram"/>
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:boomirao0720@gmail.com">
     <img src="https://img.icons8.com/color/64/gmail-new.png" alt="Gmail"/>
   </a>
 </p>
-
-
 
 ---
 
