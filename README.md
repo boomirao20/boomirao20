@@ -9,7 +9,11 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast ðŸ‡
   <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=boomirao20&theme=radical&no-frame=true&margin-w=15&row=1" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=boomirao20&theme=onedark" alt="boomirao20" />
+  </a>
+</p>
 
 ---
 
