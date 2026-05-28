@@ -146,15 +146,16 @@ Data Analytics Enthusiast 🇮🇳
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=boomirao20&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=boomirao20&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
