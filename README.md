@@ -1,18 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Boomi Rao</h1>
+
 <h3 align="center">
-AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast 🇮🇳
+AI & Data Science Student <br>
+Full-Stack Developer <br>
+Data Analytics Enthusiast 🇮🇳
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=boomirao20&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=boomirao20&theme=onedark" alt="boomirao20" />
-  </a>
 </p>
 
 ---
@@ -22,9 +19,9 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 🎓 Artificial Intelligence & Data Science student with hands-on experience in  
 **Web Development, Data Analytics, and Data Science**
 
-💡 I enjoy building **real-world projects** using Django, JavaScript, React, Power BI, Tableau, and Python.
+💡 I enjoy building real-world projects using Django, JavaScript, React, Power BI, Tableau, and Python.
 
-🎯 Organized, quick learner, and consistent — with **internship + project experience**
+🎯 Organized, quick learner, and consistent — with internship + project experience.
 
 📍 Mumbai, India
 
@@ -33,6 +30,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 ## 🛠️ Languages, Tools & Technologies
 
 ### 👨‍💻 Programming Languages
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
@@ -41,6 +39,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 </p>
 
 ### 🌐 Web Technologies
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
@@ -49,18 +48,21 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 </p>
 
 ### ⚙️ Frameworks & Backend
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 </p>
 
 ### 🗄️ Databases
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 </p>
 
 ### 📊 Data Analytics & Visualization
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
@@ -68,6 +70,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 </p>
 
 ### 🤖 AI / Machine Learning
+
 <p align="left">
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -102,7 +105,7 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 **HTML | CSS | JavaScript**
 - Responsive UI with Swiper.js sliders
 - Smooth animations & modern layout
-  
+
 ---
 
 ## 🏅 Certifications
@@ -116,21 +119,21 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/boomirao20/" target="_blank">
-    <img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/boomirao20/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/boomirao20" target="_blank">
-    <img src="https://img.icons8.com/material-rounded/64/github.png" alt="GitHub"/>
+  <a href="https://github.com/boomirao20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/boomirao_20/" target="_blank">
-    <img src="https://img.icons8.com/color/64/instagram-new.png" alt="Instagram"/>
+  <a href="https://www.instagram.com/boomirao_20/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="mailto:boomirao0720@gmail.com">
-    <img src="https://img.icons8.com/color/64/gmail-new.png" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -147,9 +150,9 @@ AI & Data Science Student | Full-Stack Developer | Data Analytics Enthusiast �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boomirao20&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomirao20&layout=compact&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=boomirao20&theme=tokyonight" />
 </p>
